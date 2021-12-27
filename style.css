@@ -1,0 +1,19 @@
+header{
+    background: #4472C4;
+    color: white;
+    display: flex;
+    height: 4rem
+}
+.weather{
+    background: #4472C4;
+    color: white;
+}
+.flex{
+    display: flex;
+}
+ h1{
+     text-align: center
+ }
+ .search{
+     margin-left: 70rem;
+ }
